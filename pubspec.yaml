@@ -1,7 +1,10 @@
 name: slow_internet_detector
 description: "A lightweight Flutter and Dio interceptor that detects slow internet connections in real time."
 version: 0.0.1
-homepage:
+homepage: https://github.com/BaluVadivel/slow_internet_detector
+repository: https://github.com/BaluVadivel/slow_internet_detector.git
+issue_tracker: https://github.com/BaluVadivel/slow_internet_detector/issues
+documentation: https://github.com/BaluVadivel/slow_internet_detector#readme
 
 environment:
   sdk: ^3.8.1
