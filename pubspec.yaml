@@ -6,6 +6,15 @@ repository: https://github.com/BaluVadivel/slow_internet_detector.git
 issue_tracker: https://github.com/BaluVadivel/slow_internet_detector/issues
 documentation: https://github.com/BaluVadivel/slow_internet_detector#readme
 
+license: MIT
+
+topics:
+  - dio
+  - http
+  - flutter
+  - interceptor
+  - connectivity
+
 environment:
   sdk: ^3.8.1
   flutter: ">=1.17.0"
